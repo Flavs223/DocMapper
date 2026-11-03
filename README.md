@@ -95,6 +95,3 @@ systemdoc-inframapper/
 
 ---
 
-## Licencia
-
-MIT
